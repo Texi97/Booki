@@ -1,2 +1,4 @@
-# Booki
- Site Internet qui permet aux usagers de trouver des hébergements et des activités dans la ville de leur choix.
+# Intégration Booki 🎨
+
+- Intégrer l'interface du site avec du code HTML et CSS.
+- Respect des consignes du client.
